@@ -9,12 +9,30 @@ table
 	width: 100%;
 }
 
-#header
+table th
 {
 	color: blue;
 }
 
 #morning
 {
-	background-color: brown;
+	background-color: #aa8cc5;
+}
+
+#music
+{
+	background-color: #99cc99;
+}
+
+#lunch
+{
+	background-color: #b2b2b2;
+}
+#story
+{
+	background-color: #D2B48C;
+}
+#mic
+{
+	background-color: #e8d9c5;
 }
