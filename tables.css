@@ -15,10 +15,6 @@ table th
 	font-weight: bold;
 
 }
-#header
-{
-	color: blue;
-}
 
 td, th
 {
@@ -27,25 +23,25 @@ td, th
 	background-color: white;
 }
 
-#morning
+.morning
 {
 	background-color: #aa8cc5;
 }
 
-#music
+.music
 {
 	background-color: #99cc99;
 }
 
-#lunch
+.lunch
 {
 	background-color: #b2b2b2;
 }
-#story
+.story
 {
 	background-color: #D2B48C;
 }
-#mic
+.mic
 {
 	background-color: #e8d9c5;
 }
