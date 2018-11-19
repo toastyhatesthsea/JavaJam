@@ -11,7 +11,20 @@ table
 
 table th
 {
+	background-color: #a06a34;
+	font-weight: bold;
+
+}
+#header
+{
 	color: blue;
+}
+
+td, th
+{
+	text-align: center;
+	padding: 10px;
+	background-color: white;
 }
 
 #morning
