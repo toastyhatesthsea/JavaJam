@@ -1,0 +1,20 @@
+/*
+	Author: Marilee Zafaripour
+	File: tables.css
+
+*/
+
+table
+{
+	width: 100%;
+}
+
+#header
+{
+	color: blue;
+}
+
+#morning
+{
+	background-color: brown;
+}
